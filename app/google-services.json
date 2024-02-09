@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "295870646842",
+    "firebase_url": "https://diplom-7f946-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "diplom-7f946",
+    "storage_bucket": "diplom-7f946.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295870646842:android:40129647c58d70f48d8303",
+        "android_client_info": {
+          "package_name": "com.example.diplom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1MMz-KwNI18o1cpgBfWYYwivPcRKgWYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
